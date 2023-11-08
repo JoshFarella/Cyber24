@@ -1,2 +1,3 @@
-#name=Jay
-#echo "hello $name"
+!bin/bash
+name=Jay
+echo "hello $name"
