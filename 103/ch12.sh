@@ -7,7 +7,7 @@ echo "hows your day? Please select option 1 for good and option 2 for bad"
 read response
 
 case "$response" in
-    "good")
+    "good"|"GOOD"|"Good")
     echo (great)
     ;;
     "bad")
