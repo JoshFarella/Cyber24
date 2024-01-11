@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:104/104ch6
+========
+>>>>>>> refs/remotes/origin/main
 import random
 R=random.randint(1,20)
 t=1
@@ -15,4 +20,9 @@ while 1==1: #t<4:
     elif R < N:
         print ("too High")
         print ("Try again")
+<<<<<<< HEAD
         t=t+1
+=======
+        t=t+1
+>>>>>>>> refs/remotes/origin/main:104/104ch7
+>>>>>>> refs/remotes/origin/main
